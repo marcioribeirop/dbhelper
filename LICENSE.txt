@@ -1,0 +1,12 @@
+Copyright (C) TEVEC Systems, SA - All Rights Reserved
+Unauthorized copying of this file, via any medium is strictly prohibited
+Proprietary and confidential
+Written by Luiz Andrade <luiz.andrade@tevec.com.br>, Jan 2015
+
+This software is developed and maintained by TEVEC Systems. Its
+copyrights and intellectual property belongs to the organization.
+
+It is therefore forbbiden to copy, modify, publish, use, compile,
+sell or distribute this software, either in source code form or as
+a compiled binary, for any purpose, commercial or non-commercial,
+and by any means.

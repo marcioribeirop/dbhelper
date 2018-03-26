@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: dbhelper
+Version: 0.5.0
+Summary: Package to serve as Helper tot access the Database
+Home-page: https://github.com/TEVEC/dbhelper
+Author: TEVEC
+Author-email: tecnologia@tevec.com.br
+License: UNKNOWN
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: ~=3.5
